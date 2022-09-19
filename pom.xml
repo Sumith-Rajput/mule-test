@@ -43,8 +43,8 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>mule_advance03</username>
 						<password>Rajpoot@2514</password>
-						<applicationName>sample-demo-test</applicationName>
-						<environment>sandbox</environment>
+						<applicationName>git-demo-project</applicationName>
+						<environment>Sandbox</environment>
 						<region>us-east-1</region>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
